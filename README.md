@@ -1,6 +1,6 @@
 # all_in_one
 
-![Test Image 4](https://github.com/lucaepi/all_in_one/blob/master/screenshot.png)
+![Test Image 4](https://github.com/lucaepi/All-in-One/blob/master/screenshot.png)
 
 Run your security tests with just one script!
 
